@@ -1,0 +1,17 @@
+@font-face{
+
+    font-family: 'slick';
+    
+    src: url('../fonts/slick.ttf');
+    
+    src: url('../fonts/slick.svg') format('eot'),
+    
+    url('../fonts/slick.eot') format('woff'),
+    
+    url('../fonts/slick.woff') format('truetype');
+    
+    font-weight: normal;
+    
+    font-style: normal;
+    
+    }
